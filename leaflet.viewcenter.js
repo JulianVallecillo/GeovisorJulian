@@ -1,9 +1,9 @@
 L.Control.ViewCenter = L.Control.extend({
 	options: {
 		position: 'topleft',
-		title: 'Plaza Central en el Municipio de San Juan de Ojojona',
+		title: 'Escuela General Francisco Morazan',
 		forceSeparateButton: false,
-		vcLatLng: [13.934016, -87.294583],
+		vcLatLng: [13.531112, -87.488443],
 		vcZoom: 17
 	},
 
